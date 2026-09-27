@@ -4,6 +4,7 @@ const App = () => {
   return (
     <div>
     <h1>Welcome to my React App</h1>
+    <h2>My favorite characters from Jujutsu Kaisen</h2>
    <table>
     <thead>
       <tr>
